@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Sfondo tondo terracotta profondo -->
+  <circle cx="32" cy="32" r="32" fill="#B4441F"/>
+
+  <!-- Silhouette stilizzata: cupola papale + torre + lago -->
+  <!-- Cupola centrale -->
+  <path d="M32 14 L32 12 M28 14 Q32 6 36 14" stroke="#F5EEDD" stroke-width="1.5" stroke-linecap="round" fill="none"/>
+  <path d="M25 22 Q32 12 39 22 Z" fill="#F5EEDD"/>
+  <rect x="30.5" y="22" width="3" height="8" fill="#F5EEDD"/>
+
+  <!-- Base del palazzo -->
+  <rect x="20" y="30" width="24" height="14" fill="#F5EEDD"/>
+  <!-- Finestre -->
+  <rect x="23" y="34" width="2" height="4" fill="#B4441F"/>
+  <rect x="29" y="34" width="2" height="4" fill="#B4441F"/>
+  <rect x="33" y="34" width="2" height="4" fill="#B4441F"/>
+  <rect x="39" y="34" width="2" height="4" fill="#B4441F"/>
+
+  <!-- Onde del lago sotto -->
+  <path d="M12 50 Q20 46 28 50 T44 50 T60 50" stroke="#F5EEDD" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M14 54 Q22 51 30 54 T46 54 T58 54" stroke="#F5EEDD" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.7"/>
+</svg>

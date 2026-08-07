@@ -1,14 +1,34 @@
 <!doctype html>
 <html lang="it">
 <head>
-<meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta charset="utf-8" /><meta name="theme-color" content="#B4441F" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Lago Albano — Balneazione, kayak, sentieri, ordinanza 2026 | Castel Gandolfo</title>
 <meta name="description" content="Tutto sul Lago Albano: profondità 168m, stagione balneare 1 maggio-30 settembre 2026, kayak, SUP, sentiero periplo 10km. Ordinanza balneare, divieti, sanzioni." />
-<link rel="alternate" hreflang="it" href="./lago.html" /><link rel="alternate" hreflang="en" href="./en/lake.html" />
+<link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/lago.html" /><link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/lake.html" />
 <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="./base.css" /><link rel="stylesheet" href="./style.css" />
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23B4441F'/%3E%3Cpath d='M16 6 L22 22 L10 22 Z' fill='%23F5EEDD'/%3E%3Ccircle cx='16' cy='11' r='2' fill='%23F5EEDD'/%3E%3C/svg%3E" />
+<link rel="canonical" href="https://castelgandolfo.eu/lago.html" />
+<meta property="og:site_name" content="Castel Gandolfo" />
+<meta property="og:title" content="Lago Albano — Il più profondo lago vulcanico del Lazio" />
+<meta property="og:description" content="168 metri di profondità, spiagge, sport acquatici, canottaggio olimpico, natura e la storia dell'antico Albalonga." />
+<meta property="og:image" content="https://castelgandolfo.eu/assets/images/lago-albano-shore.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:url" content="https://castelgandolfo.eu/lago.html" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Lago Albano — Il più profondo lago vulcanico del Lazio" />
+<meta name="twitter:description" content="168 metri di profondità, spiagge, sport acquatici, canottaggio olimpico, natura e la storia dell'antico Albalonga." />
+<meta name="twitter:image" content="https://castelgandolfo.eu/assets/images/lago-albano-shore.png" />
+<link rel="alternate" hreflang="x-default" href="https://castelgandolfo.eu/lago.html" />
+
+<link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 </head>
 <body>
 
@@ -60,8 +80,8 @@
       <div class="split-body">
         <span class="section-head-eyebrow">Balneazione 2026</span>
         <h3>Stagione dal <em>1 maggio al 30 settembre.</em></h3>
-        <p>L'ordinanza balneare 2026 del Comune di Castel Gandolfo apre ufficialmente la stagione per quasi cinque mesi. Divieto assoluto di bagno notturno (bagno di mezzanotte), di tende e di animali sulle spiagge libere. Sanzioni previste da €25 a €500.</p>
-        <p>Presenti stabilimenti attrezzati con lettini, ombrelloni e servizi, oltre a numerose spiagge libere lungo la sponda orientale. La qualità delle acque è monitorata regolarmente da Arpa Lazio e da Legambiente.</p>
+        <p>L'ordinanza balneare 2026 del Comune di Castel Gandolfo apre ufficialmente la stagione per quasi cinque mesi. Divieto assoluto di bagno notturno (bagno di mezzanotte), di tende e di animali sulle spiagge libere. Sanzioni previste da 25 a 500 euro. Fonte: ordinanza sindacale 2026.</p>
+        <p>Nel 2025 due punti di prelievo Arpa Lazio sono stati classificati "eccellenti" e uno "buono" ([Il Caffè TV](https://ilcaffe.tv/articolo/222848/lago-albano-la-stagione-balneare-parte-bene-acqua-eccellente)). Nel Lazio, il 91% delle acque di balneazione è classificato "eccellente" ([Arpa Lazio](https://www.arpalazio.it/news/-/asset_publisher/HGkuYUQGGDZL/blog/id/412057)).</p>
       </div>
     </div>
   </div>
@@ -98,11 +118,89 @@
   </div>
 </section>
 
+<!-- Spiagge -->
+<section id="spiagge">
+  <div class="container container-default">
+    <div class="section-head reveal">
+      <div><span class="section-head-eyebrow">Dove fare il bagno</span><h2>Spiagge &amp; <em>stabilimenti.</em></h2></div>
+      <p class="section-head-lead">Sulla sponda orientale e settentrionale del lago si concentrano gli stabilimenti attrezzati con lettini, bar e servizi. Le spiagge libere sono raggiungibili a piedi dal periplo.</p>
+    </div>
+    <div class="list-editorial">
+      <div class="list-item">
+        <div class="list-index">01</div>
+        <div>
+          <h3>Vagea Lido</h3>
+          <p>Sponda sud del lago, storico stabilimento con lettini e ombrelloni. Bar e ristorante interni. Prezzo indicativo per due lettini + ombrellone: 15–20 euro al giorno in bassa stagione, 20–25 euro nei weekend estivi.</p>
+        </div>
+      </div>
+      <div class="list-item">
+        <div class="list-index">02</div>
+        <div>
+          <h3>Le Ninfe</h3>
+          <p>Sponda est, area attrezzata con solarium in erba, campo da beach volley e chiosco. Molto frequentato dalle famiglie.</p>
+        </div>
+      </div>
+      <div class="list-item">
+        <div class="list-index">03</div>
+        <div>
+          <h3>Tropicana</h3>
+          <p>Stabilimento con la spiaggia sabbiosa più estesa. Aperto dalla mattina alla sera con animazione musicale.</p>
+        </div>
+      </div>
+      <div class="list-item">
+        <div class="list-index">04</div>
+        <div>
+          <h3>Le Lunette &amp; La Pentima</h3>
+          <p>Due stabilimenti più discreti, ideali per chi cerca tranquillità. La Pentima ha una piccola spiaggia sotto una rientranza rocciosa.</p>
+        </div>
+      </div>
+      <div class="list-item">
+        <div class="list-index">05</div>
+        <div>
+          <h3>Mad Village By Lagolandia</h3>
+          <p>Complesso più grande con piscina, ristorante, area giochi. Adatto per chi cerca una giornata attrezzata a 360 gradi.</p>
+        </div>
+      </div>
+    </div>
+    <p style="margin-top:var(--space-6); font-size:0.9rem; color:var(--color-text-muted); text-align:center">Fonti: [Parco dei Castelli Romani](https://www.parcocastelliromani.it/s/content/92003020580/1657801882.8685) e ordinanza balneare 2026 del Comune di Castel Gandolfo.</p>
+  </div>
+</section>
+
+<!-- Storia geologica -->
+<section style="padding-top:0">
+  <div class="container">
+    <div class="split reverse reveal">
+      <div class="split-media"><img src="./assets/images/canottaggio-lago.png" alt="Canottaggio olimpico" loading="lazy" /></div>
+      <div class="split-body">
+        <span class="section-head-eyebrow">Storia &amp; Geologia</span>
+        <h3>Un cratere di <em>600.000 anni.</em></h3>
+        <p>La caldera del Vulcano Laziale iniziò la sua attività 600.000 anni fa e si spense in epoca mesolitica, intorno al 5.000 a.C. Il Lago Albano si è formato dall'unione di due crateri: la profondità raggiunge i 168 metri. Nel 398 a.C. i Romani scavarono un emissario artificiale lungo 1.450 metri per regolarne il livello, ancora oggi funzionante.</p>
+        <p>Alle Olimpiadi del 1960 il lago ospitò le gare di canottaggio e canoa. Le boe del campo di regata olimpico sono ancora ancorate sul fondo.</p>
+        <p><a href="./blog/lago-albano-vulcanico.html">Leggi l'approfondimento sulla geologia del cratere →</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
 <!-- Pull quote -->
 <section class="pull-quote reveal">
-  <blockquote>&ldquo;Un'acqua così profonda che i Romani, per svuotarla, dovettero scavare una galleria di due chilometri e mezzo.&rdquo;</blockquote>
-  <cite>Tito Livio · Ab Urbe Condita</cite>
+  <blockquote>&ldquo;Un'acqua così profonda che i Romani, per svuotarla, dovettero scavare una galleria di quasi un chilometro e mezzo.&rdquo;</blockquote>
+  <cite>Tito Livio · Ab Urbe Condita, V, 15</cite>
 </section>
+
+<!-- MAPPA INTERATTIVA -->
+<section id="mappa" style="padding-top:0">
+  <div class="container container-default">
+    <div class="section-head reveal">
+      <div><span class="section-head-eyebrow">Orientarsi</span><h2>Mappa <em>del borgo e del lago.</em></h2></div>
+      <p class="section-head-lead">Il Palazzo Apostolico, i giardini pontifici, le spiagge, i ristoranti e gli alloggi selezionati. Clicca su ogni marker per il dettaglio.</p>
+    </div>
+    <div id="map" style="width:100%; height:520px; border-radius:12px; overflow:hidden; border:1px solid var(--color-border); background:var(--color-surface-offset)"></div>
+    <p style="margin-top:var(--space-4); font-size:0.85rem; color:var(--color-text-muted); text-align:center">Mappa &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors · rendering <a href="https://leafletjs.com" target="_blank" rel="noopener noreferrer">Leaflet</a>.</p>
+  </div>
+</section>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+<script src="./map.js" defer></script>
 
 <!-- CTA -->
 <section class="cta-band">

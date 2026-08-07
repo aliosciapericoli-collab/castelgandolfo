@@ -5,29 +5,41 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Castel Gandolfo & Lago Albano — Il borgo dei Papi sul cratere vulcanico</title>
 <meta name="description" content="Guida completa a Castel Gandolfo e Lago Albano: Ville Pontificie, spiagge del lago, itinerari, eventi 2026, ristoranti tipici e dove dormire. Bilingue IT/EN." />
-<link rel="canonical" href="./index.html" />
+<link rel="canonical" href="https://castelgandolfo.eu/" />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="theme-color" content="#B4441F" />
+<meta property="og:site_name" content="Castel Gandolfo" />
 <meta property="og:title" content="Castel Gandolfo & Lago Albano — Il borgo dei Papi" />
-<meta property="og:description" content="Guida editoriale al borgo pontificio e al più profondo lago vulcanico del Lazio." />
-<meta property="og:image" content="./assets/images/hero-castel-gandolfo.png" />
+<meta property="og:description" content="Guida editoriale al borgo pontificio e al più profondo lago vulcanico del Lazio. Ville Pontificie, itinerari, dove mangiare, dove dormire." />
+<meta property="og:image" content="https://castelgandolfo.eu/assets/images/og-cover.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:url" content="https://castelgandolfo.eu/" />
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="it_IT" />
 <meta property="og:locale:alternate" content="en_US" />
-<link rel="alternate" hreflang="it" href="./index.html" />
-<link rel="alternate" hreflang="en" href="./en/index.html" />
-<link rel="alternate" hreflang="x-default" href="./index.html" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Castel Gandolfo & Lago Albano — Il borgo dei Papi" />
+<meta name="twitter:description" content="Guida editoriale al borgo pontificio e al più profondo lago vulcanico del Lazio." />
+<meta name="twitter:image" content="https://castelgandolfo.eu/assets/images/og-cover.png" />
+<link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/" />
+<link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/" />
+<link rel="alternate" hreflang="x-default" href="https://castelgandolfo.eu/" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
 <link rel="stylesheet" href="./base.css" />
 <link rel="stylesheet" href="./style.css" />
-<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23B4441F'/%3E%3Cpath d='M16 6 L22 22 L10 22 Z' fill='%23F5EEDD'/%3E%3Ccircle cx='16' cy='11' r='2' fill='%23F5EEDD'/%3E%3C/svg%3E" />
+<link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<link rel="alternate" type="application/rss+xml" title="Castel Gandolfo — Magazine" href="./feed.xml" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "TouristDestination",
   "name": "Castel Gandolfo & Lago Albano",
   "description": "Borgo storico con residenza estiva papale sul cratere del Lago Albano nei Castelli Romani, Lazio.",
-  "url": "https://castelgandolfoelago.it",
+  "url": "https://castelgandolfo.eu/",
   "geo": { "@type": "GeoCoordinates", "latitude": 41.7469, "longitude": 12.6519 },
   "containsPlace": [
     { "@type": "TouristAttraction", "name": "Palazzo Apostolico di Castel Gandolfo" },
@@ -463,15 +475,28 @@
   </div>
 </section>
 
-<!-- NEWSLETTER -->
+<!-- MAPPA -->
+<section id="mappa" style="padding-top:0">
+  <div class="container container-default">
+    <div class="section-head reveal">
+      <div><span class="section-head-eyebrow">Orientarsi</span><h2>La mappa <em>del borgo e del lago.</em></h2></div>
+      <p class="section-head-lead">Venti punti selezionati: il Palazzo Apostolico, i giardini pontifici, le spiagge del cratere, i ristoranti tipici e gli alloggi consigliati. Clicca ogni marker per il dettaglio.</p>
+    </div>
+    <div id="map" style="width:100%; height:520px; border-radius:12px; overflow:hidden; border:1px solid var(--color-border); background:var(--color-surface-offset)"></div>
+    <p style="margin-top:var(--space-4); font-size:0.85rem; color:var(--color-text-muted); text-align:center">Mappa &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">OpenStreetMap</a> contributors · rendering <a href="https://leafletjs.com" target="_blank" rel="noopener noreferrer">Leaflet</a>.</p>
+  </div>
+</section>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+<script src="./map.js" defer></script>
+
+<!-- SCRIVICI -->
 <section class="newsletter">
   <div class="container container-narrow">
-    <h2>Ricevi il <em>calendario del borgo.</em></h2>
-    <p>Iscriviti per eventi papali, sagre, aperture straordinarie e consigli di stagione. Zero spam.</p>
-    <form class="newsletter-form" aria-label="Iscrizione newsletter">
-      <input type="email" placeholder="La tua email" required aria-label="Email" />
-      <button type="submit">Iscriviti</button>
-    </form>
+    <h2>Scrivici <em>una email.</em></h2>
+    <p>Per suggerimenti, consigli di viaggio, segnalazioni di errori o proposte di collaborazione, scrivi a <strong>info@castelgandolfo.eu</strong>. Rispondiamo entro 48 ore.</p>
+    <div class="hero-actions" style="justify-content:center">
+      <a href="mailto:info@castelgandolfo.eu" class="btn btn-primary btn-arrow">Scrivi a info@castelgandolfo.eu</a>
+    </div>
   </div>
 </section>
 

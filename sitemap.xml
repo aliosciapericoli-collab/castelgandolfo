@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://castelgandolfo.eu/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://castelgandolfo.eu/"/>
+  </url>
+
+  <url>
+    <loc>https://castelgandolfo.eu/en/</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/"/>
+  </url>
+
+  <!-- Cosa vedere -->
+  <url>
+    <loc>https://castelgandolfo.eu/cosa-vedere.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/cosa-vedere.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/what-to-see.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/what-to-see.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Il Lago -->
+  <url>
+    <loc>https://castelgandolfo.eu/lago.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/lago.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/lake.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/lake.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Eventi -->
+  <url>
+    <loc>https://castelgandolfo.eu/eventi.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/eventi.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/events.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/events.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Dove mangiare -->
+  <url>
+    <loc>https://castelgandolfo.eu/dove-mangiare.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/dove-mangiare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/where-to-eat.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/where-to-eat.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Dove dormire -->
+  <url>
+    <loc>https://castelgandolfo.eu/dove-dormire.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.95</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/dove-dormire.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/where-to-stay.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/where-to-stay.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Come arrivare -->
+  <url>
+    <loc>https://castelgandolfo.eu/come-arrivare.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/come-arrivare.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/how-to-get-there.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/how-to-get-there.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Magazine / Blog -->
+  <url>
+    <loc>https://castelgandolfo.eu/blog.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/blog.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/blog.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/blog.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Articoli Magazine -->
+  <url>
+    <loc>https://castelgandolfo.eu/blog/weekend-castel-gandolfo.html</loc>
+    <lastmod>2026-08-01</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/blog/ville-pontificie-storia.html</loc>
+    <lastmod>2026-07-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/blog/lago-albano-vulcanico.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/blog/pesche-castelgandolfo.html</loc>
+    <lastmod>2026-07-20</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.65</priority>
+  </url>
+
+  <!-- Contatti -->
+  <url>
+    <loc>https://castelgandolfo.eu/contatti.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/contatti.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/contact.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/contact.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+</urlset>
