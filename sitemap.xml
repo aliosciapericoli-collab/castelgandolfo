@@ -37,6 +37,38 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Ville storiche -->
+  <url>
+    <loc>https://castelgandolfo.eu/ville-storiche.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/ville-storiche.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/historic-villas.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/historic-villas.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Storie e aneddoti -->
+  <url>
+    <loc>https://castelgandolfo.eu/storie-aneddoti.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://castelgandolfo.eu/storie-aneddoti.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://castelgandolfo.eu/en/stories-anecdotes.html"/>
+  </url>
+  <url>
+    <loc>https://castelgandolfo.eu/en/stories-anecdotes.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
   <!-- Il Lago -->
   <url>
     <loc>https://castelgandolfo.eu/lago.html</loc>
