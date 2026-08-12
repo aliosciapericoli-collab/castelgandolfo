@@ -81,28 +81,7 @@
   <div class="footer-bottom"><p>© 2026 castelgandolfo.eu — Independent guide. Not affiliated with the Holy See or the Municipality.</p></div>
 </footer>
 
-<script>
-document.querySelectorAll('.reveal').forEach(el => {
-  const io = new IntersectionObserver((entries) => {
-    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('is-visible'); io.unobserve(e.target); } });
-  }, { threshold: 0.1 });
-  io.observe(el);
-});
-document.querySelector('[data-theme-toggle]')?.addEventListener('click', () => {
-  const html = document.documentElement;
-  const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-  html.setAttribute('data-theme', next);
-  localStorage.setItem('theme', next);
-});
-const saved = localStorage.getItem('theme');
-if (saved) document.documentElement.setAttribute('data-theme', saved);
-document.querySelector('.menu-toggle')?.addEventListener('click', function() {
-  const nav = document.querySelector('.nav-list');
-  const expanded = this.getAttribute('aria-expanded') === 'true';
-  this.setAttribute('aria-expanded', !expanded);
-  nav?.classList.toggle('is-open');
-});
-</script>
+<script src="../../app.js" defer></script>
 
 </body>
 </html>

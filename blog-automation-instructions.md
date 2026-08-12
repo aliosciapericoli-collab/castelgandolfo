@@ -21,6 +21,8 @@ Usa `asi-generate-image` con il campo `image_prompt` dal backlog item. Salva com
 ### 3. Scrivi l'articolo IT
 Crea `/home/user/workspace/castel-gandolfo-site/blog/<slug>.html` seguendo ESATTAMENTE la struttura del template `ritorno-papa-leone-xiv.html`. Lunghezza: 700-900 parole, 4-5 paragrafi con 2-3 sottotitoli h2, 1 pull-quote opzionale.
 
+**CRITICO — Script JS:** NON scrivere script inline. Includi SOLO `<script src="../app.js" defer></script>` prima di `</body>`. Il file `app.js` gestisce reveal (classe `.in-view`, non `.is-visible`), theme toggle e menu mobile. Uno script inline sbagliato rende invisibile TUTTO il contenuto (`.reveal { opacity: 0 }`). EN mirror usa `../../app.js`.
+
 **Regole redazionali:**
 - Tono editoriale colto ma accessibile, in italiano
 - Cita fatti verificabili (date, numeri, nomi)
