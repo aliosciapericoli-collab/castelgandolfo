@@ -17,22 +17,10 @@
     "ritorno-papa-leone-xiv",
     "lago-vulcanico-geologia",
     "pesche-castel-gandolfo",
-    "criptoportico-domiziano-segreto"
+    "criptoportico-domiziano-segreto",
+    "angelus-domeniche-2026"
   ],
   "queue": [
-    {
-      "slug": "angelus-domeniche-2026",
-      "category": "attualita",
-      "cat_label": "Cronaca · Vaticano",
-      "title_it": "Le domeniche dell'Angelus",
-      "subtitle_it": "guida al calendario 2026.",
-      "title_en": "Angelus Sundays",
-      "subtitle_en": "guide to the 2026 calendar.",
-      "hook_it": "Come, dove e a che ora vedere Papa Leone XIV alla loggia del Palazzo Apostolico. Consigli pratici per il pellegrino e per il curioso.",
-      "hook_en": "How, where and when to see Pope Leo XIV on the balcony of the Apostolic Palace. Practical advice for pilgrims and the curious.",
-      "image_prompt": "editorial photography, warm palette, no people, view of Piazza della Libertà Castel Gandolfo from below toward baroque papal palace balcony, golden hour, empty cobblestone square, italian summer light",
-      "reading_min": 5
-    },
     {
       "slug": "settembre-castel-gandolfo",
       "category": "guida",
@@ -515,5 +503,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "attualita"
 }
