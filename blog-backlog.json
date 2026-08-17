@@ -18,22 +18,10 @@
     "lago-vulcanico-geologia",
     "pesche-castel-gandolfo",
     "criptoportico-domiziano-segreto",
-    "angelus-domeniche-2026"
+    "angelus-domeniche-2026",
+    "settembre-castel-gandolfo"
   ],
   "queue": [
-    {
-      "slug": "settembre-castel-gandolfo",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Cosa fare a settembre",
-      "subtitle_it": "il mese più bello dell'anno.",
-      "title_en": "What to do in September",
-      "subtitle_en": "the finest month of the year.",
-      "hook_it": "Meno turisti, luce dorata, lago ancora balneabile, prime castagne dei Castelli. Perché settembre è il momento perfetto per visitare Castel Gandolfo.",
-      "hook_en": "Fewer tourists, golden light, the lake still swimmable, the first chestnuts of the Castelli. Why September is the perfect time to visit Castel Gandolfo.",
-      "image_prompt": "editorial photography, warm palette, no people, autumn view of Castel Gandolfo village rooftops with Lake Albano in the background, warm september light, first golden leaves, calm atmosphere",
-      "reading_min": 6
-    },
     {
       "slug": "specola-vaticana-focus",
       "category": "focus",
@@ -503,5 +491,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "attualita"
+  "last_published_category": "guida"
 }
