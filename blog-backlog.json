@@ -19,22 +19,10 @@
     "pesche-castel-gandolfo",
     "criptoportico-domiziano-segreto",
     "angelus-domeniche-2026",
-    "settembre-castel-gandolfo"
+    "settembre-castel-gandolfo",
+    "specola-vaticana-focus"
   ],
   "queue": [
-    {
-      "slug": "specola-vaticana-focus",
-      "category": "focus",
-      "cat_label": "Scienza · Storia",
-      "title_it": "La Specola Vaticana",
-      "subtitle_it": "il cielo dei Papi.",
-      "title_en": "The Vatican Observatory",
-      "subtitle_en": "the Popes' sky.",
-      "hook_it": "Uno dei più antichi osservatori astronomici attivi del mondo, ospitato dal 1934 nei giardini pontifici. Storia, telescopi, meteoriti.",
-      "hook_en": "One of the oldest active astronomical observatories in the world, hosted since 1934 in the papal gardens. History, telescopes, meteorites.",
-      "image_prompt": "editorial photography, warm palette, no people, white astronomical observatory dome at blue hour with starry sky beginning to appear, ancient telescope visible through opening, calm scientific atmosphere",
-      "reading_min": 8
-    },
     {
       "slug": "emissario-romano-tunnel",
       "category": "storia",
@@ -491,5 +479,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
