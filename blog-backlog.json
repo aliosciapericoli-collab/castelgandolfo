@@ -20,22 +20,10 @@
     "criptoportico-domiziano-segreto",
     "angelus-domeniche-2026",
     "settembre-castel-gandolfo",
-    "specola-vaticana-focus"
+    "specola-vaticana-focus",
+    "emissario-romano-tunnel"
   ],
   "queue": [
-    {
-      "slug": "emissario-romano-tunnel",
-      "category": "storia",
-      "cat_label": "Storia · Ingegneria antica",
-      "title_it": "L'emissario romano del 398 a.C.",
-      "subtitle_it": "2.400 anni di ingegneria.",
-      "title_en": "The Roman emissary of 398 BC",
-      "subtitle_en": "2,400 years of engineering.",
-      "hook_it": "1.450 metri scavati a mano nel tufo vulcanico. Un tunnel che funziona ancora oggi e che gli ingegneri idraulici moderni studiano con rispetto.",
-      "hook_en": "1,450 metres carved by hand through volcanic tuff. A tunnel still working today, studied with respect by modern hydraulic engineers.",
-      "image_prompt": "editorial photography, warm palette, no people, ancient Roman tunnel carved in volcanic tuff, warm interior light, water reflection on the floor, textured stone walls, mysterious atmosphere",
-      "reading_min": 7
-    },
     {
       "slug": "sagra-pesca-storia-2026",
       "category": "attualita",
@@ -479,5 +467,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "storia"
 }
