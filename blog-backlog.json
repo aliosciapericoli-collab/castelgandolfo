@@ -21,22 +21,10 @@
     "angelus-domeniche-2026",
     "settembre-castel-gandolfo",
     "specola-vaticana-focus",
-    "emissario-romano-tunnel"
+    "emissario-romano-tunnel",
+    "sagra-pesca-storia-2026"
   ],
   "queue": [
-    {
-      "slug": "sagra-pesca-storia-2026",
-      "category": "attualita",
-      "cat_label": "Tradizioni · Eventi",
-      "title_it": "La 90ª Sagra della Pesca",
-      "subtitle_it": "cronaca di un'estate 2026.",
-      "title_en": "The 90th Peach Festival",
-      "subtitle_en": "chronicle of a 2026 summer.",
-      "hook_it": "Il resoconto della novantesima edizione, le persone, i produttori, i piatti. Cosa resta dopo una sagra che dura da novant'anni.",
-      "hook_en": "A report on the ninetieth edition — the people, the growers, the dishes. What remains after a festival ninety years old.",
-      "image_prompt": "editorial photography, warm palette, no people, wooden crate filled with ripe yellow peaches on rustic italian market table, warm sunset light, terracotta pots in background, harvest atmosphere",
-      "reading_min": 6
-    },
     {
       "slug": "ferragosto-lago-albano",
       "category": "guida",
@@ -467,5 +455,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "attualita"
 }
