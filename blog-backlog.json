@@ -22,22 +22,10 @@
     "settembre-castel-gandolfo",
     "specola-vaticana-focus",
     "emissario-romano-tunnel",
-    "sagra-pesca-storia-2026"
+    "sagra-pesca-storia-2026",
+    "ferragosto-lago-albano"
   ],
   "queue": [
-    {
-      "slug": "ferragosto-lago-albano",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Ferragosto sul lago",
-      "subtitle_it": "spiagge, orari, prezzi.",
-      "title_en": "Ferragosto on the lake",
-      "subtitle_en": "beaches, times, prices.",
-      "hook_it": "Dove passare il 15 agosto sul Lago Albano senza morire di caldo e senza pagare cifre folli. Guida onesta alle spiagge libere e agli stabilimenti.",
-      "hook_en": "Where to spend August 15th on Lake Albano without dying of heat or paying crazy prices. An honest guide to free and paid beaches.",
-      "image_prompt": "editorial photography, warm palette, no people, panoramic view of Lake Albano beach at midday, umbrellas partially visible, deep blue water, volcanic crater rim behind, italian summer",
-      "reading_min": 5
-    },
     {
       "slug": "villa-barberini-giardini-focus",
       "category": "focus",
@@ -455,5 +443,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "attualita"
+  "last_published_category": "guida"
 }
