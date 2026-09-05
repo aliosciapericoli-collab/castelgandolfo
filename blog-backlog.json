@@ -23,22 +23,10 @@
     "specola-vaticana-focus",
     "emissario-romano-tunnel",
     "sagra-pesca-storia-2026",
-    "ferragosto-lago-albano"
+    "ferragosto-lago-albano",
+    "villa-barberini-giardini-focus"
   ],
   "queue": [
-    {
-      "slug": "villa-barberini-giardini-focus",
-      "category": "focus",
-      "cat_label": "Focus · Ville Pontificie",
-      "title_it": "Villa Barberini",
-      "subtitle_it": "il giardino delle terrazze.",
-      "title_en": "Villa Barberini",
-      "subtitle_en": "the garden of terraces.",
-      "hook_it": "La villa che il cardinale Taddeo Barberini fece costruire nel Seicento sulle rovine della residenza di Domiziano. Il capolavoro dei giardini pontifici.",
-      "hook_en": "The villa cardinal Taddeo Barberini built in the 17th century on the ruins of Domitian's residence. The masterpiece of the papal gardens.",
-      "image_prompt": "editorial photography, warm palette, no people, aerial view of Villa Barberini formal italian gardens with geometric hedges, fountains and cypresses, golden hour, papal palace in the distance",
-      "reading_min": 8
-    },
     {
       "slug": "clemente-viii-fine-savelli",
       "category": "storia",
@@ -443,5 +431,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
