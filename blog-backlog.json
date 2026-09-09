@@ -24,22 +24,10 @@
     "emissario-romano-tunnel",
     "sagra-pesca-storia-2026",
     "ferragosto-lago-albano",
-    "villa-barberini-giardini-focus"
+    "villa-barberini-giardini-focus",
+    "clemente-viii-fine-savelli"
   ],
   "queue": [
-    {
-      "slug": "clemente-viii-fine-savelli",
-      "category": "storia",
-      "cat_label": "Storia · Feudo",
-      "title_it": "1596 — il feudo perso per un debito",
-      "subtitle_it": "come i Savelli persero Castel Gandolfo.",
-      "title_en": "1596 — the fief lost for a debt",
-      "subtitle_en": "how the Savelli lost Castel Gandolfo.",
-      "hook_it": "Centocinquantamila scudi, un pignoramento, quattrocento anni di storia papale. La sentenza che cambiò per sempre il destino del borgo.",
-      "hook_en": "One hundred and fifty thousand scudi, a foreclosure, four hundred years of papal history. The ruling that forever changed the fate of the village.",
-      "image_prompt": "editorial photography, warm palette, no people, close-up of ancient parchment document with wax seal on wooden desk, warm library light, quill pen and ink bottle, historic archive atmosphere",
-      "reading_min": 7
-    },
     {
       "slug": "trenino-ville-pontificie-esperienza",
       "category": "attualita",
@@ -431,5 +419,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "storia"
 }
