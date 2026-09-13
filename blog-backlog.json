@@ -25,22 +25,10 @@
     "sagra-pesca-storia-2026",
     "ferragosto-lago-albano",
     "villa-barberini-giardini-focus",
-    "clemente-viii-fine-savelli"
+    "clemente-viii-fine-savelli",
+    "trenino-ville-pontificie-esperienza"
   ],
   "queue": [
-    {
-      "slug": "trenino-ville-pontificie-esperienza",
-      "category": "attualita",
-      "cat_label": "Visite · Ville Pontificie",
-      "title_it": "Il trenino delle Ville Pontificie",
-      "subtitle_it": "cinquantacinque ettari in un'ora.",
-      "title_en": "The Papal Villas little train",
-      "subtitle_en": "fifty-five hectares in an hour.",
-      "hook_it": "Prenotazione, orari, prezzo, cosa si vede davvero. Recensione onesta della visita al parco vaticano.",
-      "hook_en": "Booking, times, price, what you actually see. An honest review of the Vatican park tour.",
-      "image_prompt": "editorial photography, warm palette, no people, papal gardens tourist train empty at station, formal italian garden path, cypresses lining the way, golden afternoon light",
-      "reading_min": 5
-    },
     {
       "slug": "ottobre-castagne-castelli",
       "category": "guida",
@@ -419,5 +407,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "attualita"
 }
