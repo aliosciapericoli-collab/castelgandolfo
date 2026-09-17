@@ -26,22 +26,10 @@
     "ferragosto-lago-albano",
     "villa-barberini-giardini-focus",
     "clemente-viii-fine-savelli",
-    "trenino-ville-pontificie-esperienza"
+    "trenino-ville-pontificie-esperienza",
+    "ottobre-castagne-castelli"
   ],
   "queue": [
-    {
-      "slug": "ottobre-castagne-castelli",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Ottobre e le castagne",
-      "subtitle_it": "la stagione delle sagre.",
-      "title_en": "October and the chestnuts",
-      "subtitle_en": "the season of festivals.",
-      "hook_it": "Marino, Nemi, Rocca di Papa: il calendario delle sagre dei Castelli Romani nel mese più goloso dell'anno.",
-      "hook_en": "Marino, Nemi, Rocca di Papa: the festival calendar of the Castelli Romani in the tastiest month of the year.",
-      "image_prompt": "editorial photography, warm palette, no people, chestnuts roasting on wrought iron brazier, autumn atmosphere, warm orange embers, wooden rustic setting, italian country market",
-      "reading_min": 5
-    },
     {
       "slug": "chiesa-bernini-focus",
       "category": "focus",
@@ -407,5 +395,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "attualita"
+  "last_published_category": "guida"
 }
