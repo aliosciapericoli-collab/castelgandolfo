@@ -27,22 +27,10 @@
     "villa-barberini-giardini-focus",
     "clemente-viii-fine-savelli",
     "trenino-ville-pontificie-esperienza",
-    "ottobre-castagne-castelli"
+    "ottobre-castagne-castelli",
+    "chiesa-bernini-focus"
   ],
   "queue": [
-    {
-      "slug": "chiesa-bernini-focus",
-      "category": "focus",
-      "cat_label": "Focus · Architettura",
-      "title_it": "La chiesa del Bernini",
-      "subtitle_it": "San Tommaso da Villanova.",
-      "title_en": "Bernini's church",
-      "subtitle_en": "San Tommaso da Villanova.",
-      "hook_it": "L'unica chiesa parrocchiale progettata da Gian Lorenzo Bernini fuori dai grandi cantieri romani. Consacrata nel 1661 per Alessandro VII.",
-      "hook_en": "The only parish church designed by Gian Lorenzo Bernini outside the great Roman commissions. Consecrated in 1661 for Alexander VII.",
-      "image_prompt": "editorial photography, warm palette, no people, baroque church interior with dome ceiling by Bernini, warm sunlight through side windows, marble floor, ornate altar in the distance",
-      "reading_min": 7
-    },
     {
       "slug": "propaganda-fide-1944",
       "category": "storia",
@@ -395,5 +383,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
