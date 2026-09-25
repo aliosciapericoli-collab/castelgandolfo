@@ -28,22 +28,10 @@
     "clemente-viii-fine-savelli",
     "trenino-ville-pontificie-esperienza",
     "ottobre-castagne-castelli",
-    "chiesa-bernini-focus"
+    "chiesa-bernini-focus",
+    "propaganda-fide-1944"
   ],
   "queue": [
-    {
-      "slug": "propaganda-fide-1944",
-      "category": "storia",
-      "cat_label": "Storia · Novecento",
-      "title_it": "10 febbraio 1944",
-      "subtitle_it": "il bombardamento di Propaganda Fide.",
-      "title_en": "10 February 1944",
-      "subtitle_en": "the bombing of Propaganda Fide.",
-      "hook_it": "Cinquecento vittime civili in un pomeriggio. La pagina più dolorosa della guerra a Castel Gandolfo, e la risposta delle Ville Pontificie.",
-      "hook_en": "Five hundred civilian victims in one afternoon. The most painful page of the war at Castel Gandolfo, and the response of the Papal Villas.",
-      "image_prompt": "editorial photography, warm palette, no people, empty stone courtyard at dusk with soft warm light, memorial atmosphere, italian monastery architecture, contemplative mood",
-      "reading_min": 8
-    },
     {
       "slug": "meteo-microclima-lago",
       "category": "attualita",
@@ -383,5 +371,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "storia"
 }
