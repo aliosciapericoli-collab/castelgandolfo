@@ -29,22 +29,10 @@
     "trenino-ville-pontificie-esperienza",
     "ottobre-castagne-castelli",
     "chiesa-bernini-focus",
-    "propaganda-fide-1944"
+    "propaganda-fide-1944",
+    "meteo-microclima-lago"
   ],
   "queue": [
-    {
-      "slug": "meteo-microclima-lago",
-      "category": "attualita",
-      "cat_label": "Natura · Meteo",
-      "title_it": "Il microclima del cratere",
-      "subtitle_it": "perché a Castel Gandolfo si sta bene.",
-      "title_en": "The crater's microclimate",
-      "subtitle_en": "why Castel Gandolfo feels good.",
-      "hook_it": "Cinque gradi in meno di Roma d'estate, umidità mitigata dal lago, brezze regolari. La scienza dietro alla frescura del borgo pontificio.",
-      "hook_en": "Five degrees cooler than Rome in summer, humidity softened by the lake, regular breezes. The science behind the coolness of the papal village.",
-      "image_prompt": "editorial photography, warm palette, no people, misty morning view over Lake Albano crater from hilltop, layered fog on water, cypress silhouettes, atmospheric dawn light",
-      "reading_min": 5
-    },
     {
       "slug": "escursioni-monte-cavo",
       "category": "guida",
@@ -371,5 +359,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "attualita"
 }
