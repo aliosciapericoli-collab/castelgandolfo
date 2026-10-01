@@ -30,22 +30,10 @@
     "ottobre-castagne-castelli",
     "chiesa-bernini-focus",
     "propaganda-fide-1944",
-    "meteo-microclima-lago"
+    "meteo-microclima-lago",
+    "escursioni-monte-cavo"
   ],
   "queue": [
-    {
-      "slug": "escursioni-monte-cavo",
-      "category": "guida",
-      "cat_label": "Guide · Escursioni",
-      "title_it": "Salire al Monte Cavo",
-      "subtitle_it": "la vecchia via sacra romana.",
-      "title_en": "Climbing Monte Cavo",
-      "subtitle_en": "the old Roman sacred way.",
-      "hook_it": "949 metri, un'ora e mezza di cammino, il basolato originale della via triumphalis. L'escursione più iconica dei Castelli Romani.",
-      "hook_en": "949 metres, an hour and a half walk, the original paving of the via triumphalis. The most iconic hike in the Castelli Romani.",
-      "image_prompt": "editorial photography, warm palette, no people, ancient roman paved path climbing through chestnut forest at Monte Cavo, dappled sunlight through leaves, moss-covered stones, hiking atmosphere",
-      "reading_min": 6
-    },
     {
       "slug": "borgo-laudato-si-focus",
       "category": "focus",
@@ -359,5 +347,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "attualita"
+  "last_published_category": "guida"
 }
