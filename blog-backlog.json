@@ -31,22 +31,10 @@
     "chiesa-bernini-focus",
     "propaganda-fide-1944",
     "meteo-microclima-lago",
-    "escursioni-monte-cavo"
+    "escursioni-monte-cavo",
+    "borgo-laudato-si-focus"
   ],
   "queue": [
-    {
-      "slug": "borgo-laudato-si-focus",
-      "category": "focus",
-      "cat_label": "Focus · Ecologia",
-      "title_it": "Il Borgo Laudato Si'",
-      "subtitle_it": "l'esperimento ecologico del Vaticano.",
-      "title_en": "The Borgo Laudato Si'",
-      "subtitle_en": "the Vatican's ecological experiment.",
-      "hook_it": "Cinquantacinque ettari trasformati in centro educativo per l'ecologia integrale. Cosa si fa, cosa si vede, come si prenota.",
-      "hook_en": "Fifty-five hectares turned into an educational centre for integral ecology. What is done, what is seen, how to book.",
-      "image_prompt": "editorial photography, warm palette, no people, rows of vines and olive trees at sunset with orange nasturtium flowers, biodynamic garden, italian countryside, warm evening light",
-      "reading_min": 7
-    },
     {
       "slug": "urbano-viii-primo-soggiorno",
       "category": "storia",
@@ -347,5 +335,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
