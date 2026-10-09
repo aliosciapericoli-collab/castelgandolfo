@@ -26,7 +26,7 @@ Crea `/home/user/workspace/castel-gandolfo-site/blog/<slug>.html` seguendo ESATT
 **Regole redazionali:**
 - Tono editoriale colto ma accessibile, in italiano
 - Cita fatti verificabili (date, numeri, nomi)
-- Aggiungi link markdown a fonti autorevoli (Wikipedia, Ville Pontificie, Vatican News, Comune)
+- Aggiungi citazioni a fonti autorevoli (Wikipedia, Ville Pontificie, Vatican News, Comune) come link HTML, MAI in sintassi markdown: `(<a href="URL" target="_blank" rel="noopener">Nome fonte</a>)`. Il sito non converte il markdown: `[testo](url)` comparirebbe come testo grezzo.
 - Includi 2-3 CTA a fine articolo verso altre pagine del sito
 - Metadata: title, description (155-160 char), Cormorant Garamond + Inter, base.css + style.css
 - Path immagine: `../assets/images/blog-<slug>.png`

@@ -32,22 +32,10 @@
     "propaganda-fide-1944",
     "meteo-microclima-lago",
     "escursioni-monte-cavo",
-    "borgo-laudato-si-focus"
+    "borgo-laudato-si-focus",
+    "urbano-viii-primo-soggiorno"
   ],
   "queue": [
-    {
-      "slug": "urbano-viii-primo-soggiorno",
-      "category": "storia",
-      "cat_label": "Storia · Ville Pontificie",
-      "title_it": "Primavera 1626",
-      "subtitle_it": "il primo Papa in villeggiatura.",
-      "title_en": "Spring 1626",
-      "subtitle_en": "the first Pope on holiday.",
-      "hook_it": "Come Urbano VIII inventò la vacanza papale a Castel Gandolfo e stabilì una tradizione che sarebbe durata quattrocento anni.",
-      "hook_en": "How Urban VIII invented papal holidays at Castel Gandolfo and established a tradition that would last four hundred years.",
-      "image_prompt": "editorial photography, warm palette, no people, baroque papal audience hall with frescoed ceiling, crystal chandeliers, red velvet drapes, symmetrical composition, warm ambient light",
-      "reading_min": 7
-    },
     {
       "slug": "novembre-borgo-vuoto",
       "category": "guida",
@@ -335,5 +323,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "storia"
 }
