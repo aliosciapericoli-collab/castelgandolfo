@@ -33,22 +33,10 @@
     "meteo-microclima-lago",
     "escursioni-monte-cavo",
     "borgo-laudato-si-focus",
-    "urbano-viii-primo-soggiorno"
+    "urbano-viii-primo-soggiorno",
+    "novembre-borgo-vuoto"
   ],
   "queue": [
-    {
-      "slug": "novembre-borgo-vuoto",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Castel Gandolfo a novembre",
-      "subtitle_it": "il borgo senza turisti.",
-      "title_en": "Castel Gandolfo in November",
-      "subtitle_en": "the village without tourists.",
-      "hook_it": "Nebbia sul lago, camini accesi nelle fraschette, ristoranti aperti solo il weekend. Il fascino intimo del mese più tranquillo dell'anno.",
-      "hook_en": "Mist on the lake, chimneys lit in the taverns, restaurants open only at weekends. The intimate charm of the year's quietest month.",
-      "image_prompt": "editorial photography, warm palette, no people, foggy november morning in italian hill town cobbled alley, soft warm light from single street lamp, empty street, atmospheric mood",
-      "reading_min": 5
-    },
     {
       "slug": "madonna-del-lago-paolo-vi",
       "category": "focus",
@@ -323,5 +311,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "guida"
 }
