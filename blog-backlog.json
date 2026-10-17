@@ -34,22 +34,10 @@
     "escursioni-monte-cavo",
     "borgo-laudato-si-focus",
     "urbano-viii-primo-soggiorno",
-    "novembre-borgo-vuoto"
+    "novembre-borgo-vuoto",
+    "madonna-del-lago-paolo-vi"
   ],
   "queue": [
-    {
-      "slug": "madonna-del-lago-paolo-vi",
-      "category": "focus",
-      "cat_label": "Focus · Fede",
-      "title_it": "La Madonna del Lago",
-      "subtitle_it": "la chiesa voluta da Paolo VI.",
-      "title_en": "The Madonna of the Lake",
-      "subtitle_en": "the church wanted by Paul VI.",
-      "hook_it": "Una chiesa moderna in riva al lago, consacrata nel 1977 dal Papa che l'aveva voluta. Storia e architettura.",
-      "hook_en": "A modern church on the lake shore, consecrated in 1977 by the Pope who wanted it. History and architecture.",
-      "image_prompt": "editorial photography, warm palette, no people, modern church exterior at lake shore, minimalist architecture, warm sunset light on white walls, cypresses framing view, Lake Albano visible",
-      "reading_min": 6
-    },
     {
       "slug": "vino-castelli-romani-guida",
       "category": "guida",
@@ -311,5 +299,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
