@@ -35,22 +35,10 @@
     "borgo-laudato-si-focus",
     "urbano-viii-primo-soggiorno",
     "novembre-borgo-vuoto",
-    "madonna-del-lago-paolo-vi"
+    "madonna-del-lago-paolo-vi",
+    "vino-castelli-romani-guida"
   ],
   "queue": [
-    {
-      "slug": "vino-castelli-romani-guida",
-      "category": "guida",
-      "cat_label": "Guide · Enogastronomia",
-      "title_it": "Il vino dei Castelli",
-      "subtitle_it": "Frascati, Marino, Colli Albani.",
-      "title_en": "Castelli Romani wine",
-      "subtitle_en": "Frascati, Marino, Colli Albani.",
-      "hook_it": "Cosa bere, dove comprarlo, con cosa abbinarlo. Una guida ai bianchi vulcanici che i Papi bevevano a Castel Gandolfo.",
-      "hook_en": "What to drink, where to buy it, what to pair it with. A guide to the volcanic whites the Popes drank at Castel Gandolfo.",
-      "image_prompt": "editorial photography, warm palette, no people, wine glass with pale gold white wine on rustic wooden table, olives and bread crumbs, warm mediterranean light, italian osteria setting",
-      "reading_min": 6
-    },
     {
       "slug": "benedetto-xvi-ultime-settimane",
       "category": "storia",
@@ -299,5 +287,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "guida"
 }
