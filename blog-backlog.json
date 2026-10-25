@@ -36,22 +36,10 @@
     "urbano-viii-primo-soggiorno",
     "novembre-borgo-vuoto",
     "madonna-del-lago-paolo-vi",
-    "vino-castelli-romani-guida"
+    "vino-castelli-romani-guida",
+    "benedetto-xvi-ultime-settimane"
   ],
   "queue": [
-    {
-      "slug": "benedetto-xvi-ultime-settimane",
-      "category": "storia",
-      "cat_label": "Storia · Contemporanea",
-      "title_it": "28 febbraio 2013",
-      "subtitle_it": "l'ultimo volo di Benedetto XVI.",
-      "title_en": "28 February 2013",
-      "subtitle_en": "Benedict XVI's last flight.",
-      "hook_it": "17:07: l'elicottero decolla da Roma. 20:00: la Sede si dichiara vacante. Cronaca minuto per minuto delle due ore che cambiarono la storia della Chiesa.",
-      "hook_en": "5:07 pm: the helicopter takes off from Rome. 8:00 pm: the See is declared vacant. Minute-by-minute chronicle of the two hours that changed the history of the Church.",
-      "image_prompt": "editorial photography, warm palette, no people, baroque papal palace balcony at blue hour with warm interior light spilling out through arched windows, no figures, symbolic empty balcony",
-      "reading_min": 8
-    },
     {
       "slug": "musei-vaticani-castel-gandolfo",
       "category": "focus",
@@ -287,5 +275,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "storia"
 }
