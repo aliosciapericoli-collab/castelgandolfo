@@ -14,7 +14,7 @@ Scegli il primo item della `queue` il cui slug NON è in `published_slugs`.
 Se il primo item della coda ha una categoria uguale all'ultimo articolo pubblicato (guarda `published_slugs` per capire la categoria dell'ultimo), salta al successivo per garantire rotazione tra le 4 categorie. Rotazione ideale: storia → attualita → guida → focus → storia...
 
 ### 2. Genera l'immagine hero
-Usa `asi-generate-image` con il campo `image_prompt` dal backlog item. Salva come `blog-<slug>.png` in `/home/user/workspace/`, poi spostala in `castel-gandolfo-site/assets/images/`.
+Usa il tool `generate_image` (via exec: `await tools.generate_image({prompt, filename, aspect_ratio:"16:9", model:"nano_banana_2"})`) con il campo `image_prompt` dal backlog item, aggiungendo sempre "no text, no lettering, no words, no signage, no logos, no watermark". Salva come `blog-<slug>.png` in `/home/user/workspace/`, poi spostala in `castel-gandolfo-site/assets/images/`.
 
 **Palette obbligatoria del sito:** warm, editorial, terracotta #B4441F, cream #F5EEDD, sage/lake teal #1F5F73, ink #2A1F14. Formato 16:9. Modello: `nano_banana_2`.
 
@@ -65,7 +65,7 @@ git add -A
 git -c user.name="Alioscia Pericoli" -c user.email="aliosciapericoli@gmail.com" commit -m "blog: nuovo articolo — <titolo>"
 git push origin main
 ```
-Usa `api_credentials=["github"]` per il push.
+Il push usa le credenziali GitHub fornite automaticamente dal sandbox (non serve passare `api_credentials`).
 
 ### 9. Verifica live e notifica
 Attendi 50 secondi, poi:

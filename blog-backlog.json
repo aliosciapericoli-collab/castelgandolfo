@@ -37,22 +37,10 @@
     "novembre-borgo-vuoto",
     "madonna-del-lago-paolo-vi",
     "vino-castelli-romani-guida",
-    "benedetto-xvi-ultime-settimane"
+    "benedetto-xvi-ultime-settimane",
+    "musei-vaticani-castel-gandolfo"
   ],
   "queue": [
-    {
-      "slug": "musei-vaticani-castel-gandolfo",
-      "category": "focus",
-      "cat_label": "Focus · Musei",
-      "title_it": "Il Palazzo Apostolico come museo",
-      "subtitle_it": "cosa si vede dopo il 2016.",
-      "title_en": "The Apostolic Palace as museum",
-      "subtitle_en": "what you see after 2016.",
-      "hook_it": "Sala del Trono, biblioteca, appartamenti privati (in parte), cappella. Il percorso museale del Palazzo dopo l'apertura voluta da Papa Francesco.",
-      "hook_en": "Throne Room, library, private apartments (partially), chapel. The museum route of the Palace after the opening wanted by Pope Francis.",
-      "image_prompt": "editorial photography, warm palette, no people, ornate papal throne room with red velvet chair, marble floors, gilded frames, warm chandelier light, symmetrical composition",
-      "reading_min": 7
-    },
     {
       "slug": "concerti-estate-2026-lago",
       "category": "attualita",
@@ -275,5 +263,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "focus"
 }
