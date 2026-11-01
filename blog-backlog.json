@@ -38,22 +38,10 @@
     "madonna-del-lago-paolo-vi",
     "vino-castelli-romani-guida",
     "benedetto-xvi-ultime-settimane",
-    "musei-vaticani-castel-gandolfo"
+    "musei-vaticani-castel-gandolfo",
+    "concerti-estate-2026-lago"
   ],
   "queue": [
-    {
-      "slug": "concerti-estate-2026-lago",
-      "category": "attualita",
-      "cat_label": "Eventi · Musica",
-      "title_it": "Estate 2026 sul lago",
-      "subtitle_it": "concerti, cinema, jazz.",
-      "title_en": "Summer 2026 on the lake",
-      "subtitle_en": "concerts, cinema, jazz.",
-      "hook_it": "Il cartellone estivo tra Piazza della Libertà, Villa Torlonia e le rive del lago. Cosa è successo, cosa non perdere l'anno prossimo.",
-      "hook_en": "The summer programme between Piazza della Libertà, Villa Torlonia and the lake shores. What happened, what not to miss next year.",
-      "image_prompt": "editorial photography, warm palette, no people, empty stage at outdoor summer concert venue by lake, string lights hanging, wooden chairs arranged, twilight blue hour",
-      "reading_min": 5
-    },
     {
       "slug": "fraschette-tradizione",
       "category": "guida",
@@ -263,5 +251,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "attualita"
 }
