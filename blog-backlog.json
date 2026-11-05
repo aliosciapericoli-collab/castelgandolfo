@@ -39,22 +39,10 @@
     "vino-castelli-romani-guida",
     "benedetto-xvi-ultime-settimane",
     "musei-vaticani-castel-gandolfo",
-    "concerti-estate-2026-lago"
+    "concerti-estate-2026-lago",
+    "fraschette-tradizione"
   ],
   "queue": [
-    {
-      "slug": "fraschette-tradizione",
-      "category": "guida",
-      "cat_label": "Guide · Cucina",
-      "title_it": "Le fraschette",
-      "subtitle_it": "l'osteria dei Castelli.",
-      "title_en": "The fraschette",
-      "subtitle_en": "the tavern of the Castelli.",
-      "hook_it": "Cosa è una fraschetta, come si mangia, cosa portare, quanto si spende. Il rito conviviale che sopravvive da due secoli.",
-      "hook_en": "What is a fraschetta, how you eat, what you bring, how much it costs. The convivial ritual that has survived two centuries.",
-      "image_prompt": "editorial photography, warm palette, no people, wooden table with checkered cloth, ceramic wine jug, salumi board, bread and olives, warm rustic italian tavern light, hanging garlic",
-      "reading_min": 6
-    },
     {
       "slug": "domiziano-personaggio",
       "category": "focus",
@@ -251,5 +239,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "attualita"
+  "last_published_category": "guida"
 }
