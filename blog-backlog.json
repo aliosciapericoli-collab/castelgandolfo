@@ -40,22 +40,10 @@
     "benedetto-xvi-ultime-settimane",
     "musei-vaticani-castel-gandolfo",
     "concerti-estate-2026-lago",
-    "fraschette-tradizione"
+    "fraschette-tradizione",
+    "domiziano-personaggio"
   ],
   "queue": [
-    {
-      "slug": "domiziano-personaggio",
-      "category": "focus",
-      "cat_label": "Focus · Storia antica",
-      "title_it": "Domiziano",
-      "subtitle_it": "il calvo Nerone di Castel Gandolfo.",
-      "title_en": "Domitian",
-      "subtitle_en": "the bald Nero of Castel Gandolfo.",
-      "hook_it": "L'imperatore paranoico che si fece rivestire la stanza di marmo per specchi. Chi era davvero l'uomo che costruì qui la sua reggia estiva.",
-      "hook_en": "The paranoid emperor who had his bedroom lined with mirror-marble slabs. Who was really the man who built his summer palace here.",
-      "image_prompt": "editorial photography, warm palette, no people, roman marble bust of emperor on pedestal in museum niche, warm lateral lighting, textured stone background, dramatic classical composition",
-      "reading_min": 7
-    },
     {
       "slug": "cassetta-postale-1820",
       "category": "storia",
@@ -239,5 +227,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
