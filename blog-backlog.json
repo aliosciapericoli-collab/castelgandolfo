@@ -41,22 +41,10 @@
     "musei-vaticani-castel-gandolfo",
     "concerti-estate-2026-lago",
     "fraschette-tradizione",
-    "domiziano-personaggio"
+    "domiziano-personaggio",
+    "cassetta-postale-1820"
   ],
   "queue": [
-    {
-      "slug": "cassetta-postale-1820",
-      "category": "storia",
-      "cat_label": "Storia · Curiosità",
-      "title_it": "23 novembre 1820",
-      "subtitle_it": "la prima cassetta postale del mondo?",
-      "title_en": "23 November 1820",
-      "subtitle_en": "the first mailbox in the world?",
-      "hook_it": "Il consigliere comunale Angelo Antonio Iacorossi e la sua piccola scatola di ghisa. Un primato locale che divide gli storici.",
-      "hook_en": "Town councillor Angelo Antonio Iacorossi and his little cast iron box. A local record that divides historians.",
-      "image_prompt": "editorial photography, warm palette, no people, close-up of antique 19th century cast iron postal box on stone wall, patina and rust texture, warm afternoon light, historical detail",
-      "reading_min": 5
-    },
     {
       "slug": "dicembre-natale-borgo",
       "category": "guida",
@@ -227,5 +215,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "storia"
 }
