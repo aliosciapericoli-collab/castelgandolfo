@@ -42,22 +42,10 @@
     "concerti-estate-2026-lago",
     "fraschette-tradizione",
     "domiziano-personaggio",
-    "cassetta-postale-1820"
+    "cassetta-postale-1820",
+    "dicembre-natale-borgo"
   ],
   "queue": [
-    {
-      "slug": "dicembre-natale-borgo",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Natale a Castel Gandolfo",
-      "subtitle_it": "presepe, mercatini, luci.",
-      "title_en": "Christmas at Castel Gandolfo",
-      "subtitle_en": "nativity, markets, lights.",
-      "hook_it": "Il presepe monumentale in piazza, il mercatino tra i vicoli, l'illuminazione del Palazzo. Guida al dicembre più discreto dei Castelli.",
-      "hook_en": "The monumental nativity in the square, the market through the alleys, the illumination of the Palace. Guide to the most discreet December in the Castelli.",
-      "image_prompt": "editorial photography, warm palette, no people, italian hill town alley decorated with christmas lights at blue hour, warm shop windows, cobblestones, festive but understated",
-      "reading_min": 5
-    },
     {
       "slug": "villa-cybo-focus",
       "category": "focus",
@@ -215,5 +203,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "storia"
+  "last_published_category": "guida"
 }
