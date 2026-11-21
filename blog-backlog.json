@@ -43,22 +43,10 @@
     "fraschette-tradizione",
     "domiziano-personaggio",
     "cassetta-postale-1820",
-    "dicembre-natale-borgo"
+    "dicembre-natale-borgo",
+    "villa-cybo-focus"
   ],
   "queue": [
-    {
-      "slug": "villa-cybo-focus",
-      "category": "focus",
-      "cat_label": "Focus · Ville Pontificie",
-      "title_it": "Villa Cybo",
-      "subtitle_it": "il cavalcavia impossibile.",
-      "title_en": "Villa Cybo",
-      "subtitle_en": "the impossible flyover.",
-      "hook_it": "Un progetto rimasto sulla carta per due secoli, poi realizzato nel 1929. La storia della villa che unisce con un ponte il palazzo e il giardino.",
-      "hook_en": "A design that stayed on paper for two centuries, then built in 1929. The story of the villa linked by a bridge from palace to garden.",
-      "image_prompt": "editorial photography, warm palette, no people, elegant stone loggia bridge over cobbled street in italian hill town, arches spanning between buildings, golden hour warm light, terracotta walls",
-      "reading_min": 6
-    },
     {
       "slug": "gennaio-freddo-lago",
       "category": "guida",
@@ -203,5 +191,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "guida"
+  "last_published_category": "focus"
 }
