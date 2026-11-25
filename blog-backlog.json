@@ -44,22 +44,10 @@
     "domiziano-personaggio",
     "cassetta-postale-1820",
     "dicembre-natale-borgo",
-    "villa-cybo-focus"
+    "villa-cybo-focus",
+    "gennaio-freddo-lago"
   ],
   "queue": [
-    {
-      "slug": "gennaio-freddo-lago",
-      "category": "guida",
-      "cat_label": "Guide · Stagionalità",
-      "title_it": "Gennaio sul lago",
-      "subtitle_it": "il silenzio del cratere.",
-      "title_en": "January on the lake",
-      "subtitle_en": "the crater's silence.",
-      "hook_it": "Cinque gradi, luce cristallina, nessun turista. Cosa fare a Castel Gandolfo nel mese più freddo dell'anno.",
-      "hook_en": "Five degrees, crystalline light, no tourists. What to do at Castel Gandolfo in the coldest month of the year.",
-      "image_prompt": "editorial photography, warm palette, no people, frozen crystalline morning light over Lake Albano, bare trees on shore, cold pastel colors, silent atmosphere, winter minimalism",
-      "reading_min": 5
-    },
     {
       "slug": "papa-pio-xi-lateran",
       "category": "storia",
@@ -191,5 +179,5 @@
       "reading_min": 5
     }
   ],
-  "last_published_category": "focus"
+  "last_published_category": "guida"
 }
